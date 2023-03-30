@@ -1,2 +1,2 @@
 # snake
-- tanmay666.me
+- [alive](https://tanmay666.me/snake)
